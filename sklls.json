@@ -1,4 +1,4 @@
 {
-	"Скилы, которые будут изучены на курсе": "Git", "Postman", "JS", "Bug-Tracking system",
-	"check-list creation", "Android studio", "Jmeter", "Charles and others"
+	"Скилы, которые будут изучены на курсе": ["Git", "Postman", "JS", "Bug-Tracking system",
+	"check-list creation", "Android studio", "Jmeter", "Charles and others"]
 }
